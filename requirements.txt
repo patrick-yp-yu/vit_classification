@@ -1,0 +1,9 @@
+torch
+torchvision
+torchinfo
+
+matplotlib
+numpy
+Pillow
+Requests
+tqdm
