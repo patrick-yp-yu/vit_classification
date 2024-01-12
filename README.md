@@ -7,5 +7,5 @@ The reserach paper, ["An Image is Worth 16x16 Words: Transformers for Image Reco
 - **Task 2**: Apply image classification to identify different dog breeds
 
   
-# Overview the pipeline of the project
-![Pipeline](assets/vig_dogs.png)
+# Project Pipeline
+![Project Pipeline](assets/vig_dogs.png)
