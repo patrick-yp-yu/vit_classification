@@ -21,7 +21,6 @@ __pycache__/
 *.jar
 *.rar
 *.tar
-*.zip
 *.msi
 
 # IDE files #
